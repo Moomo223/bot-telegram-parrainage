@@ -3,3 +3,4 @@ services:
     name: bot-telegram-parrainage
     env: python
     startCommand: python bot.py
+    
